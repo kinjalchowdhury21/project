@@ -1,1 +1,1 @@
-hello file3
+file3
